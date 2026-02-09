@@ -50,6 +50,7 @@ Basic sanity check test to verify Jest is working correctly and that the test su
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes / No) - Yes
 - GitHub Actions Run URL: https://github.com/Gautam-Bharadwaj/jest-workshop/actions
+- https://github.com/Gautam-Bharadwaj/jest-workshop/actions/runs/21825577666
 
 ---
 
