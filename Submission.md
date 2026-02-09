@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name:Kumar Gautam
+- Roll Number: 2024-B-04032004A
+- GitHub Username:Gautam-Bharadwaj
 
 ---
 
